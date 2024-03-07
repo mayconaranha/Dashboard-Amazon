@@ -3,8 +3,8 @@
 <h2 align="center"></h2>
 
 Página com eixo temporal (mudança de eixo por botão):
-<img src="https://i.imgur.com/8GygLmF.png" />
+<img src="https://i.imgur.com/eG6g8Aq.png" />
 Página com eixo por categoria  (mudança de eixo por botão):
-<img src="https://i.imgur.com/mXQo1KS.png" />
+<img src="https://i.imgur.com/4AehbeC.png" />
 Página com filtros habilitados:
-<img src="https://i.imgur.com/jd8wOg1.png" />
+<img src="https://i.imgur.com/CBkDvQJ.png" />
